@@ -14,7 +14,7 @@
 
 I'm an **AI/ML-focused Computer Science undergraduate** at VIT Chennai (BTech CSE, AI & ML specialization, CGPA 9.12), building real systems at the intersection of deep learning, LLMs, and full-stack engineering.
 
-I spent 8 months as an **AI Software Developer Intern at Nullarc Software**, where I shipped full-stack features in React/TypeScript and FastAPI, architected microservices for AI-powered products, and integrated ML models into production pipelines. I care about systems that are not just accurate but genuinely deployable: observable, maintainable, and fast.
+My engineering background spans both ends of the stack, from training pipelines to deployed interfaces. I've shipped full-stack features, architected microservices for AI products, and integrated ML models into production. I care about systems that are not just accurate but genuinely deployable: observable, maintainable, and fast.
 
 My interests span **agentic AI, RAG architectures, multimodal deep learning, NLP**, and increasingly, the craft of human-AI collaboration in software development.
 
