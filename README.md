@@ -4,11 +4,11 @@
 
 *Building production-grade LLM systems, RAG pipelines, and agentic AI — end to end, from model to interface*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vijay--aravindh--srinivasan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-aravindh-srinivasan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vijay-aravindh-srinivasan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-aravindh-srinivasan/)
 [![GitHub followers](https://img.shields.io/github/followers/VijayFalcon?style=flat-square&color=b8f584)](https://github.com/VijayFalcon)
 [![Email](https://img.shields.io/badge/Email-vijayaravindhsrinivasan%40gmail.com-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:vijayaravindhsrinivasan@gmail.com)
 
----
+--
 
 ## About me
 
@@ -18,14 +18,14 @@ I spent 8 months as an **AI Software Developer Intern at Nullarc Software**, whe
 
 My interests span **agentic AI, RAG architectures, multimodal deep learning, NLP**, and increasingly, the craft of human-AI collaboration in software development.
 
----
+--
 
 ## Expertise Breakdown
 
 Self-assessed proficiency across AI/ML and engineering domains
 
 | Domain | Proficiency | Level |
-| --- | --- | --- |
+| -- | -- | -- |
 | LLMs & Prompt Engineering | `████████████████████` 92% | Expert |
 | RAG Pipelines | `███████████████████░` 90% | Expert |
 | Agentic AI / MCP | `███████████████████░` 88% | Advanced |
@@ -35,7 +35,7 @@ Self-assessed proficiency across AI/ML and engineering domains
 | ML Engineering (sklearn/PyTorch) | `███████████████████░` 88% | Advanced |
 | Vector Databases | `████████████████░░░░` 78% | Proficient |
 
----
+--
 
 ## Tech Stack
 
@@ -51,7 +51,7 @@ Self-assessed proficiency across AI/ML and engineering domains
 
 **ML & Data**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154360?style=flat-square&logoColor=white)
@@ -69,7 +69,7 @@ Self-assessed proficiency across AI/ML and engineering domains
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
----
+--
 
 ## Featured Projects
 
@@ -78,12 +78,12 @@ Self-assessed proficiency across AI/ML and engineering domains
 > Stacking ensemble classifier (XGBoost + LinearSVC + Logistic Regression) with LIME-based word-level explainability, multilingual LLM fact-checking via Groq, and a Gradio interface for interactive demo.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logoColor=white)
 ![LIME](https://img.shields.io/badge/LIME-Explainability-6A5ACD?style=flat-square)
 
----
+--
 
 ### 🧠 [MEDIQA-CORE – Multimodal Brain Tumor Classifier](https://github.com/VijayFalcon/MEDIQA-CORE)
 
@@ -94,18 +94,18 @@ Self-assessed proficiency across AI/ML and engineering domains
 ![BioBERT](https://img.shields.io/badge/BioBERT-NLP-0e6655?style=flat-square)
 ![ResNet18](https://img.shields.io/badge/ResNet18-AttentionMIL-8e44ad?style=flat-square)
 
----
+--
 
 ### 🌾 [TerraPredict – AI Crop Yield Predictor](https://github.com/VijayFalcon/TerraPredict)
 
 > Full-stack precision agriculture platform with multilingual NL input, LLM-driven feature extraction, scikit-learn yield prediction, scipy-based input optimization, AWS DynamoDB persistence, and a Streamlit interface.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
----
+--
 
 ### 🎨 [AIsthetic – AI Interior Design Tool](https://github.com/VijayFalcon/AIsthetic)
 
@@ -115,16 +115,16 @@ Self-assessed proficiency across AI/ML and engineering domains
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![RAG](https://img.shields.io/badge/RAG-Vector_Search-1abc9c?style=flat-square)
 
----
+--
 
 **More projects**
 
 | Project | Description | Stack |
-| --- | --- | --- |
+| -- | -- | -- |
 | 📊 [Sentimentrics](https://github.com/VijayFalcon/Sentimentrics) | End-to-end sentiment analysis pipeline for customer feedback using BERT + VADER | Python, HuggingFace, scikit-learn |
 | 🔍 [FakeSight](https://github.com/VijayFalcon/FakeSight) | Fake news detection with stacking ensembles and LIME explainability | Python, Groq, Gradio |
 
----
+--
 
 ## Work Experience
 
@@ -134,7 +134,7 @@ Full-stack feature development (React/TypeScript + FastAPI), RESTful API and mic
 **Research & Management Coordinator** · Tech Researchers' Club, VIT Chennai *(Jan 2024 – Jul 2025)*
 Led technical events and workshops for 200+ students, drove adoption of emerging tools through internal research communications.
 
----
+--
 
 ## GitHub Stats
 
@@ -143,7 +143,7 @@ Led technical events and workshops for 200+ students, drove adoption of emerging
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayFalcon&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
 </p>
 
----
+--
 
 ## Get in touch
 
@@ -153,6 +153,6 @@ Open to AI engineering internships, research collaborations, and interesting con
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/VijayFalcon)
 [![Email](https://img.shields.io/badge/Email-Reach_out-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijayaravindhsrinivasan@gmail.com)
 
----
+--
 
 *BTech CSE (AI & ML) · VIT Chennai · 2023–2027*
