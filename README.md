@@ -120,6 +120,17 @@ Self-assessed proficiency across AI/ML and engineering domains
 
 ---
 
+### ☀️ [Uncertainty-Aware Solar Irradiance Forecasting](https://github.com/VijayFalcon/solar-irradiance-conformal-forecasting)
+
+> Deep learning pipeline (CNN-LSTM + PatchTST) forecasting solar irradiance across five Indian climate zones, with conformal prediction for statistically valid uncertainty intervals and SHAP for cross-zone explainability. Research Intern project at the Centre for Smart Grid Technologies, VIT Chennai. [Live dashboard](https://vijayfalcon.github.io/solar-irradiance-conformal-forecasting/)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Conformal Prediction](https://img.shields.io/badge/Conformal_Prediction-4B8BBE?logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-6A5ACD?logoColor=white)
+
+---
+
 **More projects**
 
 | Project | Description | Stack |
